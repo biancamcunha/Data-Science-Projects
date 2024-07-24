@@ -1,1 +1,5 @@
 # Data-Science-Projects
+
+This repository is dedicated to my data science projects, aimed at advancing my skills across various disciplines such as artificial intelligence, machine learning, deep learning, natural language processing, and computer vision. Through these projects, I seek to broaden my expertise in data science and gain practical knowledge in cutting-edge technologies.
+
+I started my career as an Industrial Engineer before making the transition to Data Science. My journey began at a startup in the payments industry, where I gained foundational experience as a Data Scientist. Currently, I am pursuing a master's degree in Computer Science with a specialization in Data Science. I am also employed by an initiative led by professors from PUC-Rio, focused on delivering innovative solutions to partner companies through agile research and development methodologies. In my current role, I actively contribute to a Data Science project encompassing data analysis, presentation of results and findings, development of machine learning models, and software solution delivery upon project completion.
